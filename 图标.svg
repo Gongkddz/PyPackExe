@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1014.68 1270.45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: blue;
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-size: 627.91px;
+        font-weight: 300;
+        letter-spacing: -.07em;
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .cls-3 {
+        fill: #662d91;
+        font-family: DejaVuSansMono-BoldOblique, 'DejaVu Sans Mono';
+        font-size: 830.65px;
+        font-style: oblique;
+        font-weight: 700;
+        letter-spacing: -.07em;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="27.13" y1="522.7" x2="1002.12" y2="522.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff1d25"/>
+      <stop offset=".41" stop-color="#ff4159"/>
+      <stop offset="1" stop-color="#ff7bac"/>
+    </linearGradient>
+  </defs>
+  <g id="_图层_1" data-name="图层 1">
+    <g>
+      <g>
+        <path class="cls-2" d="M155.45,112.54h175.56c65.76,0,115.85,12.37,150.27,37.11,34.41,24.74,51.62,60.78,51.62,108.09,0,30.83-5.09,61.38-15.26,91.66-10.18,30.29-23.34,54.35-39.5,72.2-21.74,24.61-48.77,42.38-81.09,53.34-32.33,10.95-74.27,16.43-125.82,16.43h-68.55l-45.56,226.73H33.82L155.45,112.54Zm102.83,100.59l-35.11,177.65h59.77c40.68,0,71.13-9.13,91.33-27.38,20.2-18.25,30.31-45.63,30.31-82.13,0-24.6-7.25-42.11-21.74-52.52-14.49-10.41-39.15-15.62-73.99-15.62h-50.58Z"/>
+        <path class="cls-2" d="M717.2,767.16c-31.21,53.54-58.17,87.41-80.88,101.6-22.71,14.2-51.62,21.29-86.73,21.29h-100.32l18.81-90.45h48.91c24.24,0,43.33-4.06,57.27-12.17,13.93-8.11,29.26-27.31,45.98-57.59l16.3-30.01-90.71-436.01h124.15l53.09,283.91,160.09-283.91h129.16l-295.11,503.34Z"/>
+      </g>
+      <text class="cls-3" transform="translate(27.13 718.09) scale(1.03 1)"><tspan x="0" y="0">Py</tspan></text>
+    </g>
+  </g>
+  <g id="_图层_2" data-name="图层 2">
+    <text class="cls-1" transform="translate(0 1110.97)"><tspan x="0" y="0">EXE</tspan></text>
+  </g>
+</svg>
